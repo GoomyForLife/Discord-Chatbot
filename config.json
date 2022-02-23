@@ -1,0 +1,13 @@
+{
+  "prefix":" ", // Set your prefix here
+  "clientName": " ", // Set your bot name here
+  "versionPrefix": "v", // Set the version prefix here
+  "version": "1.0.0", // Set the bot version here
+  "embedColor": 304623, //Set the colour of the embed messages here
+  "bot_token": " ", // Set your bot token here
+  "chat": {
+        "url": "", // Set your brainshop AI URL here
+        "brainID": "", // Set your brainshop AI brainID here.
+        "key": "", // Set your brainshop AI key here
+        "channel": // Set the channel you want the bot to work.
+}
