@@ -13,7 +13,7 @@ client.aliases = new discord.Collection();
 client.queue = new Map();
 
 
-const Categories = ["study"]; //Commands => Category => Command
+const Categories = ["misc"]; //Commands => Category => Command => Name of folder :-)
 
 Categories.forEach(async function(Category) { //
     fs.readdir(`./commands/${Category}`, async function(error, files) {
